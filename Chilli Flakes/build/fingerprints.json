@@ -1,0 +1,56 @@
+{
+ "parts/bag_dispensers.py": {
+  "bag_dispensers": "2cf18ee9cbc2f49c"
+ },
+ "parts/baggie_organizer.py": {
+  "baggie_organizer": "3a9d8950f8cf2f1e"
+ },
+ "parts/big_baggies - gridfinity.py": {
+  "big_baggies - gridfinity": "15a889d6500077c7"
+ },
+ "parts/big_baggies.py": {
+  "big_baggies": "d702ee95b4eb6a92"
+ },
+ "parts/box.py": {
+  "box": "edab852efc7b8a91"
+ },
+ "parts/box_and_lid_fit.py": {
+  "box_and_lid_fit": "6161b6856cd9e5f0"
+ },
+ "parts/boxes.py": {
+  "boxes": "054f591231ac80da"
+ },
+ "parts/drawer_layout.py": {
+  "drawer_layout": "be977956baca57c3"
+ },
+ "parts/ickle_baggies - gridfinity.py": {
+  "ickle_baggies - gridfinity": "ec9ad24683514839"
+ },
+ "parts/ickle_baggies.py": {
+  "ickle_baggies": "e4f4a0515fdea029"
+ },
+ "parts/midi_baggies - gridfinity.py": {
+  "midi_baggies - gridfinity": "bd1ba9cf2cc4b31a"
+ },
+ "parts/midi_baggies.py": {
+  "midi_baggies": "b712a4cf56e92267"
+ },
+ "parts/seed_drying.py": {
+  "seed_drying": "21536abb855bb3cf"
+ },
+ "parts/shoe_box_lid.py": {
+  "shoe_box_lid": "0e0a5b1db8dc9102"
+ },
+ "parts/shoe_box_lid_hole.py": {
+  "shoe_box_lid_hole": "cc0b9d32ce9a8b25"
+ },
+ "parts/tray.py": {
+  "tray": "8117527ff6ac34d3"
+ },
+ "parts/tweaker_tray.py": {
+  "tweaker_tray": "4bc481f4e76a09b6"
+ },
+ "parts/tweazer_tray.py": {
+  "tweazer_tray": "8dc854661255fa89"
+ }
+}

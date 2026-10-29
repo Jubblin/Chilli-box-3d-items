@@ -1,0 +1,29 @@
+[gridfinity_pitch]
+value = 42.0
+unit = "mm"
+how = "Gridfinity open standard grid pitch. gridfinity.xyz/specification, cross-checked against GridFlock and extrabold.tools baseplate generator docs, 2026-10-03"
+
+[gridfinity_clearance]
+value = 0.5
+unit = "mm"
+how = "Gridfinity standard total clearance per cell (0.25mm each side) subtracted from grid_units * pitch to get a bin's outer footprint. Same sources as gridfinity_pitch, 2026-10-03"
+
+[gridfinity_foot_corner_radius]
+value = 4.0
+unit = "mm"
+how = "Gridfinity standard bin/baseplate corner radius. GridFlock and extrabold.tools baseplate generator docs both default to this to match official baseplates, 2026-10-03"
+
+[gridfinity_foot_bottom_chamfer]
+value = 0.8
+unit = "mm"
+how = "Gridfinity standard stacking-foot profile, bottom-most 45deg chamfer height. Community-documented 0.8 / 1.8 / 2.15mm three-stage profile (qidi3d.com gridfinity dimensions guide, cross-checked against Stu142/Gridfinity-Documentation), 2026-10-03"
+
+[gridfinity_foot_wall]
+value = 1.8
+unit = "mm"
+how = "Gridfinity standard stacking-foot profile, middle vertical section height. Same sources as gridfinity_foot_bottom_chamfer, 2026-10-03"
+
+[gridfinity_foot_top_chamfer]
+value = 2.15
+unit = "mm"
+how = "Gridfinity standard stacking-foot profile, top 45deg chamfer height, meets the bin wall flush. Same sources as gridfinity_foot_bottom_chamfer, 2026-10-03"
